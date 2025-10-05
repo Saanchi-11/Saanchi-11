@@ -1,5 +1,5 @@
 #  Hiee! I'm Sanchi Jadhav.
-**Aspiring Innovator, Tech Enthusiast and BTech Undergraduate student from India**
+**Aspiring Innovator, Tech Enthusiast and BTech Undergraduate student**
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanchikabira07@gmail.com) 
